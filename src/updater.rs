@@ -5,7 +5,7 @@ use std::thread;
 
 use crate::network::VERSION;
 
-const REPO_OWNER: &str = "lennyblk";
+const REPO_OWNER: &str = "sachavrt";
 const REPO_NAME: &str = "ashes-bones";
 
 pub enum UpdateStatus {
